@@ -3,7 +3,7 @@
 ### Description
 The “How Do I?” samples collection is a comprehensive set containing dozens of interactive samples. Available in C#, these samples are designed to hit all the highlights of Map Suite, from simply adding a layer to a map to performing spatial queries and applying a thematic style. Consider this collection your “encyclopedia” of all the Map Suite basics and a great starting place for new users.
 
-![Screenshot](https://github.com/ThinkGeo/DynamicMarkerOverlaySample-ForWpf/blob/master/Screenshot.png)
+![Screenshot](https://github.com/ThinkGeo/HowDoISample-ForWpf/blob/master/Screenshot.png)
 
 ### Requirements
 This sample makes use of the following NuGet Packages
