@@ -1,4 +1,4 @@
-# How Do I Sample for Wpf
+# How DoI Sample for Wpf
 
 ### Description
 
