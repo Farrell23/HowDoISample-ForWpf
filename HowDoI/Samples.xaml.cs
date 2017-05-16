@@ -15,7 +15,7 @@ namespace CSHowDoISamples
 {
     public partial class Samples : Window
     {
-        public static readonly string RootDirectory = @"\\192.168.0.3\Employee Share\Howard\ThinkGeo Resources\WpfDesktop\SampleData\HowDoI\";
+        public static readonly string RootDirectory = @"..\..\";
 
         private const string startHtml = "<body oncontextmenu='return false;'><div class='divbody'><pre name='code' class='c-sharp:nocontrols'>";
         private const string endHtml = "</pre></div><link type='text/css' rel='stylesheet' href='{0}\\SyntaxHighlighter.css'></link><script language='javascript' src='{0}\\shCore.js'></script><script language='javascript' src='{0}\\shBrushCSharp.js'></script><script language='javascript' src='{0}\\shBrushXml.js'></script><script language='javascript'>dp.SyntaxHighlighter.HighlightAll('code');</script></body>";
