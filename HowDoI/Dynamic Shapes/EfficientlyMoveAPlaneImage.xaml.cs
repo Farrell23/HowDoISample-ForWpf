@@ -41,7 +41,7 @@ namespace CSHowDoISamples
             // Setup the mapshape layer.
             InMemoryFeatureLayer bitmapLayer = new InMemoryFeatureLayer();
             bitmapLayer.ZoomLevelSet.ZoomLevel01.DefaultPointStyle.PointType = PointType.Bitmap;
-            bitmapLayer.ZoomLevelSet.ZoomLevel01.DefaultPointStyle.Image = new GeoImage(Samples.RootDirectory + @"Images\Prop Plane.png");
+            bitmapLayer.ZoomLevelSet.ZoomLevel01.DefaultPointStyle.Image = new GeoImage(Samples.RootDirectory + @"Data\Prop Plane.png");
             bitmapLayer.ZoomLevelSet.ZoomLevel01.DefaultLineStyle = LineStyles.ContestedBorder2;
             bitmapLayer.ZoomLevelSet.ZoomLevel01.ApplyUntilZoomLevel = ApplyUntilZoomLevel.Level20;
 
